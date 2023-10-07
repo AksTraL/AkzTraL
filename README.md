@@ -3,7 +3,7 @@
 - 👋This is AkzTraL
 - 💻An 18 year old tech enthusiast </br>
 - 🎓Majoring in Computer Science & Engineering
-- 📊Passionate about Data science & engineering
+- 📊Interest in Data science & Engineering
 - 🔭 I’m currently working on my skills  </br>
 - 🌱 I’m currently learning Python and SQL </br>
 - 👯 I’m looking to collaborate on </br>
