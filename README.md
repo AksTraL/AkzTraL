@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- This is AkzTraL
-- An 18 year old tech enthusiast </br>
+- 👋This is AkzTraL
+- 💻An 18 year old tech enthusiast </br>
+- 🎓Majoring in Computer Science & Engineering
+- 📹Passionate about Video editing and Anime(sometimes)
 - 🔭 I’m currently working on discord bots </br>
 - 🌱 I’m currently learning Python and SQL </br>
 - 👯 I’m looking to collaborate on </br>
